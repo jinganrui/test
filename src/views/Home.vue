@@ -39,8 +39,7 @@ export default {
     fnImgSrc: function(e) {
       this.imgs=[];
       var files = e.target.files;
-      console.log(files);
-      if (files > 0) {
+      if (files.length === 0) {
         return;
       }
       for (let i = 0; i < files.length; i++) {
