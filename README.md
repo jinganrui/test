@@ -1,3 +1,4 @@
+[TOC]
 # app
 
 ## Project setup
