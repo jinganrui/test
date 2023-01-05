@@ -1,3 +1,8 @@
+
+<docs>
+## test
+* test
+</docs>
 <template>
   <div id="app">
     <div id="nav">
